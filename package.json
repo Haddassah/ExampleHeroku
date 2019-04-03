@@ -1,0 +1,24 @@
+{
+  "name": "ExampleHeroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haddassah/ExampleHeroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haddassah/ExampleHeroku/issues"
+  },
+  "homepage": "https://github.com/Haddassah/ExampleHeroku#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
